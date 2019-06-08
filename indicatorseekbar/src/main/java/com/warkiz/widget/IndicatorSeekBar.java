@@ -46,7 +46,7 @@ public class IndicatorSeekBar extends View {
     private static final int THUMB_MAX_WIDTH = 30;
     private static final String FORMAT_PROGRESS = "${PROGRESS}";
     private static final String FORMAT_TICK_TEXT = "${TICK_TEXT}";
-    private static final String FORMAT_EMPTY = "${EMPTY}"
+    private static final String FORMAT_EMPTY = "${EMPTY}";
     private Context mContext;
     private Paint mStockPaint;//the paint for seek bar drawing
     private TextPaint mTextPaint;//the paint for mTickTextsArr drawing
